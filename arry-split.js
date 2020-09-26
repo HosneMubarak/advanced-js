@@ -8,3 +8,7 @@ console.log(part)
 console.log(remove)
 
 console.log(nums)
+
+
+const togather = nums.join(" ,")
+console.log(togather)
